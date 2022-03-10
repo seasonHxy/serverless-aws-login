@@ -1,0 +1,5 @@
+node_modules
+front/build
+.serverless
+.webpack
+yarn-lock.json
